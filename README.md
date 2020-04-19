@@ -1,6 +1,8 @@
 # Regression 
 
-Learning Regression
+Regression using Machine Learning models like Linear Regression, 
+Polynomial Regression, Support Vector Regression, 
+Decision Tree and Random Forest
 
 ## Libraries installation
 scikit Learn
