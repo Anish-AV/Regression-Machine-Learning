@@ -9,6 +9,10 @@ scikit Learn
 ```bash
 pip install -U scikit-learn
 ```
+matplotlib 
+```bash
+pip install matplotlib
+```
 Pandas
 ```bash
 pip install pandas
